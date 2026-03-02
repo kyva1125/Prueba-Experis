@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953926329697",
+    "project_id": "prueba-experis",
+    "storage_bucket": "prueba-experis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953926329697:android:2c9eb1eccc0d30b0431120",
+        "android_client_info": {
+          "package_name": "com.example.prueba_experis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU9gAS0lEj6IOopjcJzh-nETDzq9bRkgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
