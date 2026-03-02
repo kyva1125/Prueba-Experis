@@ -4,12 +4,13 @@ Una aplicación Flutter para la prueba EXPERIS que muestra un catálogo de pelí
 
 ## Arquitectura usada
 
-Se usa arquitectura limpia usando meedu para el uso de BLOC y PROVIDER se separaron las 3 capas además se usa el patron repository y buenas practicas de SOLID, que se utilizo en todo el proceso de los controladores para facilidad de entendimiento y buen uso.
+Se usa arquitectura limpia usando meedu para el uso de BLOC y PROVIDER se separaron las 3 capas además se usa el patron repository y buenas prácticas de SOLID, que se utilizó en todo el proceso de los controladores para facilidad de entendimiento y buen uso.
 
 ## Tech Stack y Dependencias
 
 - **Flutter:** 3.19.0
 - **Dart:** 3.3.0
+
 - **Dependencias:**
  - equatable: ^2.0.8
  - flutter_meedu: ^9.2.1
@@ -31,7 +32,7 @@ Se usa arquitectura limpia usando meedu para el uso de BLOC y PROVIDER se separa
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/prueba_experis.git
+   git clone https://github.com/kyva1125/Prueba-Experis.git
    cd prueba_experis
 
 ## Servicios usados 
@@ -39,3 +40,6 @@ Se usa arquitectura limpia usando meedu para el uso de BLOC y PROVIDER se separa
 Se uso para la obtencion de las peliculas 
 - https://devsapihub.com/api-movies
 
+## Capturas
+
+![img.png](img.png)
